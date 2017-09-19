@@ -1,6 +1,6 @@
 <?php
-echo "<h1>Hallo OpenShift!<h1>";
-echo "Greetings:";
+echo "<h1>Hallo OpenShift! LinuxLand Wiesn Event<h1>";
+echo "Grüß Gott:";
 echo getenv("GREETINGS");
 echo "<br>";
 
