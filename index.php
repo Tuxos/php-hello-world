@@ -1,5 +1,6 @@
 <?php
-  echo "<h1>Hallo OpenShift!<h1>";
+
+  echo "<h1>Hallo OpenShift! Demo<h1>";
   echo "Greetings:";
   echo getenv("GREETINGS");
   echo "<br>";
@@ -8,4 +9,5 @@
   echo "<br>";
   echo "Client IP: ";
   echo $_SERVER["REMOTE_ADDR"];
+  
 ?>
